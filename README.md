@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alessio Napolitano</h1>
+<h1>Hi 👋, I'm Alessio Napolitano</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alenap93" alt="alenap93" /></a> </p>
 
@@ -15,4 +15,4 @@
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
 <a href="https://r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alenap93&show_icons=true&locale=en" alt="alenap93" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=alenap93&show_icons=true&locale=en" alt="alenap93" /></p>
