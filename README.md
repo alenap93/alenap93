@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alenap93" alt="alenap93" /></a> </p>
 
-- I’m a **NodeJS Full Stack Developer**
+- I’m a **NodeJS Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
